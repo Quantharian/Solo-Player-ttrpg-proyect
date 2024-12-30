@@ -1,0 +1,315 @@
+{
+"cards": [
+    {
+      "card": "A♥️",
+      "type": "",
+      "image": "", 
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "K♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "Q♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "J♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "10♥️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "9♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "8♥️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "7♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "6♥️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "5♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "4♥️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "3♥️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "2♥️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "A♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "K♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "Q♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "J♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "10♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "9♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "8♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "7♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "6♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "5♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "4♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "3♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "2♦️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "A♠️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "K♠️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "Q♠️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "J♠️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "10♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "9♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "8♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "7♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "6♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "5♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "4♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "3♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "2♠️",
+      "type": "",
+      "prompt": ""
+    },
+    {
+      "card": "A♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "K♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "Q♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "J♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "10♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "9♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "8♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "7♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "6♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "5♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "4♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "3♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    },
+    {
+      "card": "2♣️",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    }
+    {
+      "card": "Black Joker",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    } 
+        {
+      "card": "Red Joker",
+      "type": "",
+      "prompt": "",
+      "instructions": ""
+    } 
+  ]
+}
