@@ -1,0 +1,144 @@
+{
+    "users": [
+      {
+        "id": "1111",
+        "name": "Rikardo",
+        "password": "Lol@ilo45"
+      }
+     
+    ],
+    "games": [
+      {
+        "id": "",
+        "game": "Astroprisma",
+        "writter": "",
+        "url": "https://www.astroprisma.com/",
+        "img": "https://d1wgd08o7gfznj.cloudfront.net/uploads/project/preorder_image/47482/optimized_KICKcoverNOPISE.jpg",
+        "short description": "",
+        "number of pages": "",
+        "system": "",
+        "language": "",
+        "played": true
+      },
+      {
+        "id": "",
+        "game": "Lordsworn",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      },
+      {
+        "id": "",
+        "game": "Reap",
+        "writter": "Gila",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": false
+      },
+      {
+        "id": "",
+        "game": "Revolt!",
+        "writer": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": false
+      }
+      {
+        "id": "",
+        "game": "The Wretched",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+      {
+        "id": "",
+        "game": "Zylight",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+      {
+        "id": "",
+        "game": "Colostle",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+      {
+        "id": "",
+        "game": "Rune",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+      {
+        "id": "",
+        "game": "",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+      {
+        "id": "",
+        "game": "",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+      {
+        "id": "",
+        "game": "",
+        "writter": "",
+        "url": "",
+        "img": "",
+        "short description": "",
+        "number of pages": "",
+        "language": "",
+        "system": "",
+        "played": true
+      }
+    ]
+  }
