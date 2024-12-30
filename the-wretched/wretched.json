@@ -1,0 +1,301 @@
+{
+    "cards":[
+    { 
+        "card": "A❤",
+        "type": "Systems",
+        "image": "http://www.marytcusack.com/maryc/decks/Images/Cards/ShootingStar/H01.jpg",
+      "prompt":"After days of trying you have finally managed to repair your distress beacon and activate it.",
+    "instructions": "Pull from the tower. Do not discard this card - instead, put it to one side and place 10 tokens on it. At the end of each day, after recording your log, roll your die. On a result of 6, remove a token from the card. If you successfully remove all the tokens, someone responds to your beacon. Make a final pull from the tower. If the tower stands, you are rescued and the game ends. Record one more audio log as you watch them destroy the creature and dock with your ship. If the tower falls, they arrived too late to stop your ship falling apart in the black.  You are dead, and the game is over."
+      },
+      {"card": "K❤",
+      "type": "Systems",
+      "prompt":"You hear a skittering, scraping sound in the air vents and you fear the creature - or something else - may have got aboard the ship. How will you make sure you don't attract its attention?",
+    "instructions": "Do not discard this card. Place it where you can see it. If this is the fourth King you have drawn, the creature has gained access to the Wretched and it has finally found you. The game is over."
+      },
+      { "card": "Q❤",
+      "type": "Systems",
+      "prompt":"  The door lock system fails while you are in the bridge, and you have to spend a few hours forcing the doors open so you can get out.",
+    "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "J❤",
+        "type": "Systems",
+      "prompt":"You spend a day climbing around in the engines, doing basic maintenance and trying to figure out what needs to be done to get the ship moving again. You end the day as clueless as you began.",
+    "instructions" :"Pull from the tower."
+      },
+      { 
+        "card": "10❤",
+        "type": "Systems",
+      "prompt": "The life support system keeps making an unhealthy grinding noise, and you don't know what the problem is. What will you do if it fails?"
+      },
+      { 
+        "card": "9❤",
+        "type": "Systems",
+      "prompt":"The proximity alarms keep sounding because the creature is on the outside of the ship. You had to disable them.",
+"instructions": "Pull from the tower"
+      },
+      { 
+        "card": "8❤",
+        "type": "Systems",
+      "prompt":"What does it feel like to look at the sensors and the monitors and see nothing? How does it feel to know that you may never see land, or light, or have a conversation again?"
+      },
+      { 
+        "card": "7❤",
+        "type": "Systems",
+      "prompt":"You had to climb up into a narrow crawlspace to fix some faulty lighting. What was it like, squeezed in there between the cables and the hull of the ship?",
+"instructions": "Pull from the tower."
+      },
+      { 
+        "card": "6❤",
+        "type": "Systems",
+      "prompt":"Your scanners keep showing a large object that periodically disappears from the screen, only to show up again a few hours later. Is there something out there, or is it a glitch?"
+      },
+      { 
+        "card": "5❤",
+        "type": "Systems",
+      "prompt":"You've been finding it harder and harder to catch your breath, and eventually it dawned on you that the oxygen system had shut itself off. You fixed it, but what caused it to break?",
+"instructions": "Pull from the tower."
+      },
+      { 
+        "card": "4❤",
+        "type": "Systems",
+      "prompt":"Your comms system blinks into life, picking up garbled chatter from far-off vessels. It falls silent before you can signal to them. What were they saying?"
+      },
+      { 
+        "card": "3❤",
+        "type": "Systems",
+      "prompt":"While you slept the fire suppression system was activated. What caused the fire, and how will you make sure it doesn't happen again?",
+"instructions": "Pull from the tower."
+      },
+      { 
+        "card": "2❤",
+        "type": "Systems",
+      "prompt":"The water purification system still works, but it's noticeably less efficient. What does it feel like to drink water that smells faintly of ammonia?"
+      },
+      { 
+        "card": "A",
+        "type": "Structures",
+      "prompt":"After a short but terrifying EVA you managed to boost the range of The Wretched's antenna. How did you ensure that the creature would not attack you while you were outside the ship?",
+      "instructions": "Pull from the tower. Do not discard this card - instead, put it to one side so that you will remember you have drawn it. When the distress beacon is active, a roll of 5 or 6 is sufficient to remove a token from it."
+      },
+      { 
+        "card": "K",
+        "type": "Structures",
+      "prompt":"When you launched the creature out of the airlock you couldn’t seal it again. Every now and then the creature comes back to that hole in the side of your ship, scratching and prying at the single internal door that separates you from the cold black of space. How do you react to this?",
+      "instructions": "Do not discard this card. Place it where you can see it. If this is the fourth King you have drawn, the creature has gained access to the Wretched and it has finally found you. The game is over."
+      },
+      { 
+        "card": "Q",
+        "type": "Structures",
+      "prompt":"You spend a day taking the engine apart completely and putting back together in an attempt to fix it, but you're not sure exactly how to do that and you suspect that you may have caused more damage than you fixed.",
+      "instructions": "Pull from the tower. Do not replace this block at the top of the tower - remove it from the game instead."
+      },
+      { 
+        "card": "J",
+        "type": "Structures",
+      "prompt":"You lose power throughout the ship, and while you're trying to fix it the backup generator fails too. You manage to restore power, but you need to cannibalise parts from the backup generator, which will never work again.",
+      "instructions": "Pull from the tower. Do not replace this block at the top of the tower - remove it from the game instead."
+      },
+      { 
+        "card": "10",
+        "type": "Structures",
+      "prompt":"With the climate control on the fritz, mould springs up in some of your food stores. You can't fix it, so you just seal that locker up and hope that nothing affects the rest of your supplies.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "9",
+        "type": "Structures",
+      "prompt":"Your gravity drive fails. It's a long, slow process dragging yourself over to it with no gravity, and a long day fixing it, but you manage to get it back up and running.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "8",
+        "type": "Structures",
+      "prompt":"A fire starts in one of the engines while you are attempting to get the ship going again. You are forced to jettison it.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "7",
+        "type": "Structures",
+      "prompt":"The many skirmishes with the creature caused a huge amount of internal structural damage. You spend a day tracking down all the issues you can find and fixing them as best you can.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "6",
+        "type": "Structures",
+      "prompt":"The sewage silo springs a leak. It smells terrible, and you fix it as quickly as is humanly possible.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "5",
+        "type": "Structures",
+      "prompt":"You access one of the lander modules and hope that you can use it to escape the ship, but the asteroid that struck before your engines failed damaged it beyond repair. You jettison it into the black in the hope that it will distract the creature.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "4",
+        "type": "Structures",
+      "prompt":"The creature detaches one of the habitat modules and sets it adrift in space. You manage to seal off that area of the ship before the creature can gain real access.",
+      "instructions":"Pull from the tower."
+      },
+      { 
+        "card": "3",
+        "type": "Structures",
+      "prompt":"After you threw the creature out of the airlock it spent hours trying to get through the windows of the observatory deck - the only glass on the ship. You fear their integrity has been compromised, so you spend an hour reinforcing them by welding sheets of metal over the inside.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "2",
+        "type": "Structures",
+      "prompt":"Shortly before your engines failed, the ship was struck by a small asteroid that didn't appear on the scanners. Oxygen has slowly been leaking out of the hull where it hit, but you spent a few hours fixing it.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "A",
+        "type": "Crew",
+      "prompt":"While rummaging through the crew quarters you found a tool you've been in need of. What was it?",
+      "instructions": "The next time you are told to pull from the tower you may choose not to."
+      },
+      { 
+        "card": "K",
+        "type": "Crew",
+      "prompt":"As you were passing the Officer's Mess you tried to avert your eyes from the carnage inside, but you're sure you saw something move amongst the bodies of your crewmates. What do you think it was?",
+      "instructions": "Do not discard this card. Place it where you can see it. If this is the fourth King you have drawn, the creature has gained access to the Wretched and it has finally found you. The game is over."
+      },
+      { 
+        "card": "Q",
+        "type": "Crew",
+      "prompt":"You spend a day clearing bodies out of a small room that you intend to hole up in if the creature gets aboard again. What was its purpose before this happened, and why were there so many people here when the creature came?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "J",
+        "type": "Crew",
+      "prompt":"You gather together the bodies of the crew you were closest to and seal them in the remaining airlock, saying a few words of remembrance over their bodies, but you can’t quite bring yourself to jettison them. What words do you say, and why is it so hard to send them out into space?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "10",
+        "type": "Crew",
+      "prompt":"One of the crew died while holding a teddy bear his daughter gave him. What was the bear's name?"
+      },
+      { 
+        "card": "9",
+        "type": "Crew",
+      "prompt":" Make a list of the five best hiding places on the ship, in the event that you need to use them."
+      },
+      { 
+        "card": "8",
+        "type": "Crew",
+      "prompt":"Which member of the crew jumped into harm's way to try and protect the others, and how much time did they buy you all?"
+      },
+      { 
+        "card": "7",
+        "type": "Crew",
+      "prompt":"Before the creature came you were in the very early stages of pursuing a relationship with another member of the crew. What was the last thing you said to them, and why do you regret it?"
+      },
+      { 
+        "card": "6",
+        "type": "Crew",
+      "prompt":"One of the crew told you all about a terrible dream they had a few days before the creature came. In hindsight, they were having a premonition of what was about to happen. Why did you all ignore them?"
+      },
+      { 
+        "card": "5",
+        "type": "Crew",
+      "prompt":"You have been carrying a rifle with you for a few days now. You pried it out of the cold grip of a dead crewmate's hands. How did that make you feel, and do you think the rifle will be effective if you need to use it?"
+      },
+      { 
+        "card": "4",
+        "type": "Crew",
+      "prompt":"Where did you hide while the rest of the crew were dying?"
+      },
+      { 
+        "card": "3",
+        "type": "Crew",
+      "prompt":"You had to use someone else's ID to access an area of the ship normally forbidden to you. Whose ID was it, and what were you doing there?"
+      },
+      { 
+        "card": "2",
+        "type": "Crew",
+      "prompt": "You found the journal of one of your crewmates. What thing from home were they missing the most?"
+      },
+      { 
+        "card": "A",
+        "type": "the creature",
+      "prompt":"You find a way to distract the creature from its attempts to gain access to the ship. What is it?",
+      "instructions": "If you have previously drawn the King of Spades you may shuffle it back into the deck."
+      },
+      { 
+        "card": "K",
+        "type": "the creature",
+      "prompt":"The past few nights you have been dreaming about the creature. What happens in your dreams?",
+      "instructions": "Do not discard this card. Place it where you can see it. If this is the fourth King you have drawn, the creature has gained access to the Wretched and it has finally found you. The game is over."
+      },
+      { 
+        "card": "Q",
+        "type": "the creature",
+      "prompt":"What do you imagine the creature calls itself?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "J",
+        "type": "the creature",
+      "prompt":"The creature can survive out in the cold black of space, where nothing should be able to live. Is it coming into your territory to destroy you, or is it simply defending its domain?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "10",
+        "type": "the creature",
+      "prompt":"You find something left behind by the creature - blood, or a body part, or something you can't quite explain. Describe it.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "9",
+        "type": "the creature",
+      "prompt":"Despite the thick hull of the ship separating you from the creature outside, you somehow know when it is near your section of the ship. How?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "8",
+        "type": "the creature",
+      "prompt":"You didn't see the creature properly because you were hiding, but you heard it. What did it sound like?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "7",
+        "type": "the creature",
+      "prompt":"The creature whispers to you through the ship's comms. You don't know how it does it. What do you hear before you kill the audio?",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "6",
+        "type": "the creature",
+      "prompt":"You find yourself muttering a short phrase over and over again like a catechism. What is it?",
+      "instructions":"Pull from the tower."
+      },
+      { 
+        "card": "5",
+        "type": "the creature",
+      "prompt":"Something happened to the lights when the creature was near your hiding place. What was it?",
+      "instructions":"Pull from the tower."
+      },
+      { 
+        "card": "4",
+        "type": "the creature",
+      "prompt":"Down one of the long, straight corridors between rooms on the ship, you follow gouges in the walls and floor left by the creature. Describe them, and which part of its anatomy you think left those tracks behind.",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "3",
+        "type": "the creature",
+      "prompt":"Describe the way the creature moves across the outside of the ship",
+      "instructions": "Pull from the tower."
+      },
+      { 
+        "card": "2",
+        "type": "the creature",
+      "prompt":"Today you felt like giving up. You couldn't summon any energy, and your tasks weren't completed.",
+      "instructions": "Return any cards you haven't yet turned over to the deck and shuffle it. Pull from the tower."
+      }
+    ]
+    }
