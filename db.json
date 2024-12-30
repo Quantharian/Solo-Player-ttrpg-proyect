@@ -55,7 +55,7 @@
         "language": "",
         "system": "",
         "played": false
-      }
+      },
       {
         "id": "",
         "game": "The Wretched",
@@ -67,7 +67,7 @@
         "language": "",
         "system": "",
         "played": true
-      }
+      },
       {
         "id": "",
         "game": "Zylight",
@@ -79,7 +79,7 @@
         "language": "",
         "system": "",
         "played": true
-      }
+      },
       {
         "id": "",
         "game": "Colostle",
@@ -91,7 +91,7 @@
         "language": "",
         "system": "",
         "played": true
-      }
+      },
       {
         "id": "",
         "game": "Rune",
@@ -103,7 +103,7 @@
         "language": "",
         "system": "",
         "played": true
-      }
+      },
       {
         "id": "",
         "game": "",
@@ -115,7 +115,7 @@
         "language": "",
         "system": "",
         "played": true
-      }
+      },
       {
         "id": "",
         "game": "",
@@ -127,7 +127,7 @@
         "language": "",
         "system": "",
         "played": true
-      }
+      },
       {
         "id": "",
         "game": "",
@@ -139,6 +139,18 @@
         "language": "",
         "system": "",
         "played": true
+      },
+      {
+        "id": "",
+        "game": "Carved by the garden",
+        "writer": "Cassi Mothin",
+        "url": "https://cassi-mothwin.itch.io/carved-by-the-garden",
+        "img": "",
+        "short descripción": "Document your character’s last days in the nearby haunted woods in Carved by the Garden, a single-player structured journaling game. Using a standard deck of playing cards, you’ll follow prompts that reveal the horrors waiting for you among the trees. You’ll also roll dice, pull blocks from a tumbling tower, and write about your experiences in character",
+        "number of pages": "48",
+        "system": "wretched",
+        "language": "english",
+        "played": false
       }
     ]
-  }
+}
