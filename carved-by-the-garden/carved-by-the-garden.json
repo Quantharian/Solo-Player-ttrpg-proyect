@@ -4,75 +4,77 @@
       "card": "A♥️",
       "type": "Bonds",
       "image": "", 
-      "prompt": "The woods leave their mark on you. How does it manifest? See page 39. Do you feel the beginnings of antlers? Skin tough as bark? Venom along your lips? Claws on your fingertips? A craving for blood? Do not discard this card. Put it to the side. At the end of each day, after writing in your journal, roll a 6-sided die. On a result of 4 or higher, add a piece-of-nature token to the card. Each piece of nature represents a new mark the woods leave on you. Describe how it manifests.",
-      "instructions": "When you’ve collected 8 pieces of nature, make a final pull from the tower. If the tower stands, your bond to the woods is solid and fixed. You can never leave. Turn to the CARVED ONE ending on page 36. If the tower falls, your connection is strong, but not strong enough. Turn to the REJECTED ending on page 36."
+      "prompt": "The woods leave their mark on you. How does it manifest? See page 39. Do you feel the beginnings of antlers? Skin tough as bark? Venom along your lips? Claws on your fingertips? A craving for blood? ",
+      "instructions": "Do not discard this card. Put it to the side. At the end of each day, after writing in your journal, roll a 6-sided die. On a result of 4 or higher, add a piece-of-nature token to the card. Each piece of nature represents a new mark the woods leave on you. Describe how it manifests.
+      
+      When you’ve collected 8 pieces of nature, make a final pull from the tower. If the tower stands, your bond to the woods is solid and fixed. You can never leave. Turn to the CARVED ONE ending on page 36. If the tower falls, your connection is strong, but not strong enough. Turn to the REJECTED ending on page 36."
     },
     {
       "card": "K♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "You found something you were never meant to see, and the people who protect it came after you. You out maneuvered most of them within the woods, but someone cornered you. Their weapon dug deep into your stomach, and to survive, you had to kill them. Whose life did you end? What did you find that this person protected?",
+      "instructions": " Keep this card in front of you. Pull from the tower. 
+      
+      If this is your fourth king, the rest of the group captures you in a thick rope net and drags you through the forest. They mutter in tongues, their faces wet with tears. They discard you violently in a deep pit full of painful brambles. What happens when the night comes? When you finish your last journal entry, turn to the FAILURE ending on page 35."
     },
     {
       "card": "Q♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "To combat invasive plants and large insect populations, the woods undergo controlled burns as needed. You didn’t know one was scheduled for today, and the fire nearly caught you, chasing you into a deep creek. The sounds of screaming surrounded you. Why is the scent of your burnt flesh recognizable? What omens do you see in the smoke?",
+      "instructions": "Pull from the tower." 
     },
     {
       "card": "J♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "After following a bubbling trail of blood, you found the naked body of someone you resented. A bloody symbol carved deep into their torso pulsed with dark ooze. Why did you have such strong feelings about this person? Why do you find your bloody knife poorly hidden near the body?",
+      "instructions": "Pull from the tower. "
     },
     {
       "card": "10♥️",
       "type": "Bonds",
-      "prompt": ""
+      "prompt": "Rumors suggest the woods are sick, like something eats at the roots. Large sections of forest are plagued with sticky, black leaves. Some say it’s the result of locals forgetting the old ways. What evidence do you find that supports this theory? Do you attempt to make up for what’s been forgotten?"
     },
     {
       "card": "9♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "The hunters surprised you when they emerged silently from the trees, wet bodies of slain animals at their waists. They berated you for being in the woods, stress and frustration evident in their voices. What weapons did they carry? Why do they see you as a threat?",
     },
     {
       "card": "8♥️",
       "type": "Bonds",
-      "prompt": ""
+      "prompt": "There are many abandoned tools in the woods, and today you found an axe stuck in a tree stump covered in sap. When you pulled out the axe, it pulsed softly in your hands. What is the axe hungry for? If you feed it, what does it give you as a reward? Pull from the tower."
     },
     {
       "card": "7♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "The pile of dolls in the middle of the woods didn’t make sense. The dolls were all made of cornhusks and twine and piled as high as you are tall. Did you keep any of the dolls? How many of them look like you?",
+      "instructions": "Pull from the tower."
     },
     {
       "card": "6♥️",
       "type": "Bonds",
-      "prompt": ""
+      "prompt": "You are drawn to a peculiar plant you’ve only found in these woods. You’ve tried to research it, but you never find anything about it. If you try to bring it from the woods, it dies right away. Why is the plant significant to you? Why do you fear for its safety?"
     },
     {
       "card": "5♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "You’ve been warned not to go into the caves, no matter how tempting a shortcut home might be. When you passed by one today, you heard a voice you recognized calling out. What temptation did the voice promise with its invitation? How did you resist?",
+      "instructions": "Pull from the tower."
     },
     {
       "card": "4♥️",
       "type": "Bonds",
-      "prompt": ""
+      "prompt": "A disheveled looking couple begged you to witness their wedding ceremony, and you agreed. Before the traditional kiss, they removed their clothes, and told you not to look away. One of them handed you a full canteen, instructing you to pour the contents over their bodies. They kneeled before you. What was in the canteen? Why did the couple run from you after the ceremony?"
     },
     {
       "card": "3♥️",
       "type": "Bonds",
-      "prompt": "",
-      "instructions": ""
+      "prompt": "“Careful what you seek to unravel,” said an old woman stacking small, round stones as you passed her. She did not stop her task to look at you. Is she building a monument, a shelter, or a gravestone? What do you make of her warning?"
     },
     {
       "card": "2♥️",
       "type": "Bonds",
-      "prompt": ""
+      "prompt": "The birds greeted you when you crossed the wood’s threshold. They pecked at your hair and clothes before darting between the trees. Their songs are loud and laborious. But when they are finally gone, the woods seem too quiet. How did you befriend them? How do you think they’ll betray you? Where do you find the nest made of your hair?"
     },
     {
       "card": "A♦️",
